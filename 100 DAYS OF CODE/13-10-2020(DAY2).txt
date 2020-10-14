@@ -1,0 +1,6 @@
+Learnt some topics in CPP
+    - Conditions
+    - Loops
+    - Functions
+    - Pointers
+    - Scope and Namespaces
