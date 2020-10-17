@@ -1,0 +1,4 @@
+Working on CPP
+  - Implimented linear search -
+  - Implimented binary search
+  - couple of looping problems 
