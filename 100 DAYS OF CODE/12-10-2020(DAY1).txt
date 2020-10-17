@@ -1,3 +1,0 @@
-Satarted longest challanes that is 100 days of code
-Started learning cpp
-        - finished basic programming in cpp
