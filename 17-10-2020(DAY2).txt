@@ -1,0 +1,4 @@
+Learned and implimented new programs and some algorithms
+  - Linear search
+  - Binary search
+  - Started learning CPP stl
