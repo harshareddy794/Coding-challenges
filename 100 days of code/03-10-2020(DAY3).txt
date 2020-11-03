@@ -1,0 +1,5 @@
+* Continued learning Arrays
+
+* Leader in array method
+
+* Learned max value of two array indexes
