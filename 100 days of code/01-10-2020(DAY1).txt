@@ -1,0 +1,7 @@
+* Started learning Ds and algorithms 
+
+* Learned basic maths and notations that are useful in DS and ALGOs
+
+* Worked on Hacking scripts open souce as a paet of AOS2020
+
+* Worked on API for Hash dhronas end point
