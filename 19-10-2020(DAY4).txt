@@ -1,4 +1,0 @@
-Started learning data stracturs and algorithms( Sorting )
-  - Used CPP STL to sort array 
-  - Continued learning PERN stack
-  - Started a todo list app in PERN stack
