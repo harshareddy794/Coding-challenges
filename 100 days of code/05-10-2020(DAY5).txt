@@ -1,0 +1,5 @@
+* Continued learning ds and algo
+
+* Worked on backend API for internship
+
+* Working on portfolio web site
