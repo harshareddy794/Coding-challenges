@@ -1,0 +1,11 @@
+* Continued learning Ds and algo
+
+* Worked on following problems
+	-  Min and max element in an array
+	-  Who is majority in array
+	-  Is array sorted or not
+	-  Left rotate array 
+
+* Worked on digifai product route
+
+ 
