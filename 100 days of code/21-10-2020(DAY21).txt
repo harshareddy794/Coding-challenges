@@ -4,7 +4,8 @@
 	-  Min and max element in an array
 	-  Who is majority in array
 	-  Is array sorted or not
-	-  Left rotate array 
+	-  Left rotate array
+	-  Reverse an array 
 
 * Worked on digifai product route
 
