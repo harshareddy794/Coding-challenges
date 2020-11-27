@@ -1,0 +1,4 @@
+* Continued working on Digifai products routes
+	- Product routes
+
+* Started working on Digital slam

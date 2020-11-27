@@ -1,0 +1,7 @@
+* Revised oops concepts
+
+* Continued working on React
+
+* Worked on Digifai routes
+
+ 

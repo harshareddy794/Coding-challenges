@@ -1,0 +1,3 @@
+* Worked on Hash dhronas API project
+
+* Continued learning Django

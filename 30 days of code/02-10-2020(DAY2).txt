@@ -1,0 +1,7 @@
+* Started learning Arrays as a part of Ds and algo
+
+* Learned left rotate array by d positions 
+
+* Learned moving all zeros to end
+
+* Worked on Api end points for Hash dhronas internship

@@ -1,0 +1,5 @@
+* Worked on Hash dhronas API project
+
+* Started learning Django
+
+* Ds and Algo continue array
