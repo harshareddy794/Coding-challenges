@@ -1,7 +1,5 @@
-* Revised oops concepts
-
-* Continued working on React
-
 * Worked on Digifai routes
 
- 
+* Continued learning react 
+
+* Contined learning ds and algo
