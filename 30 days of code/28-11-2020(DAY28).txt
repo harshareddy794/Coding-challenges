@@ -1,0 +1,5 @@
+* Revised basic programming concepts
+
+* Revised oops concepts
+
+* Learned aptitude formulas for seimans test
