@@ -1,1 +1,0 @@
-* Worked on Digifai Api for Image upload component

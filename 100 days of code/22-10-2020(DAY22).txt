@@ -1,7 +1,0 @@
-* Continued learning Ds and algo
-
-* worked on recursive problems
-
-* Worked on digifai product route
-
- 

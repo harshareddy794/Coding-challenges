@@ -1,5 +1,0 @@
-Continued learning Ds and Algo 
-
-* Learned leaders in an array
-
-* Revised some basic programming concepts

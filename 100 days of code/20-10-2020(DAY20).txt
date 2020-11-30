@@ -1,7 +1,0 @@
-* Continued learning Ds and algo
-
-* Learned array algorithms
-
-* Worked on digifai category routes
-
- 

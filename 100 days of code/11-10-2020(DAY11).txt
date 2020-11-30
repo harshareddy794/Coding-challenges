@@ -1,3 +1,0 @@
-* Worked on rhine export (Django based site)
-
-* Started C 300 questions track

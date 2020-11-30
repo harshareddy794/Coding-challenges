@@ -1,7 +1,0 @@
-* Continued working on Digifai products routes
-	- Finshed 2 routes today
-
-* Placcement prepration exam
-	- Apptitude
-	- C programming
- 

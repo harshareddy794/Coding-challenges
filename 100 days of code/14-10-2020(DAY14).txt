@@ -1,3 +1,0 @@
-* Continued learning array algo
-
-* Revisited C programming fundamentals

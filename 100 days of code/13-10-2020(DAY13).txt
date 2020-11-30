@@ -1,3 +1,0 @@
-* Worked on Digifai Api for Image upload component
-
-* Continued learning array algo
