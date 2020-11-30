@@ -1,0 +1,3 @@
+* Revised some advanced ES6 concepts
+
+* Revised some basic ds and algo
