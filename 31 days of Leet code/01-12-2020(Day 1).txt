@@ -1,3 +1,0 @@
-* Solved 1480 Running Sum of 1d Array(Array - Easy)
-
-* Solved 1672 Richest Customer Wealth(Array - Easy)

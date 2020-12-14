@@ -1,3 +1,0 @@
-* Solved 832 Flipping an Image(Array - Easy)
-
-* Solved 1431 Kids With the Greatest Number of Candies(Array - Easy)
