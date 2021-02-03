@@ -1,0 +1,5 @@
+* Learned basics of tree datastracture in DS
+
+* Learned its implimentation
+
+* Implemented some basic concepts  like DFS, Max element, Height of a tree.
