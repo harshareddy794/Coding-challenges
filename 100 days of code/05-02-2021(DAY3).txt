@@ -1,0 +1,3 @@
+* Worked on BST problems implementation
+
+* Finished placement preparation coding practice test
