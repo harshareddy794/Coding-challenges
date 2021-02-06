@@ -1,0 +1,5 @@
+* Worked on BST insert, delete implementation.
+
+* Started with codechef long challenge.
+
+* Finished placement preparation aptitude test.
