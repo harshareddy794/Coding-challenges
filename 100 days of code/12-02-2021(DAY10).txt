@@ -1,0 +1,5 @@
+* Worked on heap problems.
+
+* Implemented Minimum in heap extraction.
+
+* Worked on placement problems
