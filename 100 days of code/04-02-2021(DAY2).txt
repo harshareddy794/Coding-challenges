@@ -1,5 +1,0 @@
-* Learned basics of BST in DS
-
-* Learned its implimentation
-
-* Implemented some basic concepts  like Search, Insert and Delete in a BST
